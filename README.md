@@ -1,6 +1,6 @@
 # Awesome-Photo-Management
 
-# Top Photo Management Tools Ecosystem
+## Top Photo Management Tools Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Self-Hosted Archives, AI Discovery & Metadata-First Workflows*  
