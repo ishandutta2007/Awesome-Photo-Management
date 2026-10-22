@@ -67,12 +67,12 @@ Below is an overview of major hosted SaaS photo management platforms, sorted in 
 
 The open-source self-hosted photo ecosystem provides sovereign control, local AI computation, zero subscription fees, and transparent storage formats.
 
-> 💡 **Sorted in descending order by GitHub Star Count**. Click any star badge to inspect stargazers and repository velocity.
+> 💡 **Sorted in descending order by GitHub Stars_Count**. Click any Stars_Badge to inspect stargazers and repository velocity.
 
 ---
 
 ### 1. 🚀 [Immich](https://github.com/immich-app/immich)
-[![GitHub stars](https://img.shields.io/github/stars/immich-app/immich?style=social&color=white)](https://github.com/immich-app/immich/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/immich-app/immich?style=social&color=white)](https://github.com/immich-app/immich/stargazers)
 
 - **Description**: The premier open-source Google Photos replacement. High-performance self-hosted solution featuring polished native iOS and Android apps with background camera upload, multi-user support, shared partner libraries, and interactive timeline scrubbers.
 - **AI & Processing**: Local machine learning container running CLIP semantic search, facial recognition, duplicate detection, and reverse geocoding without sending a single byte to external clouds.
@@ -82,7 +82,7 @@ The open-source self-hosted photo ecosystem provides sovereign control, local AI
 ---
 
 ### 2. 💎 [PhotoPrism](https://github.com/photoprism/photoprism)
-[![GitHub stars](https://img.shields.io/github/stars/photoprism/photoprism?style=social&color=white)](https://github.com/photoprism/photoprism/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/photoprism/photoprism?style=social&color=white)](https://github.com/photoprism/photoprism/stargazers)
 
 - **Description**: Highly mature, AI-powered personal photo manager for decentralized networks. Ideal for existing photo archives, camera RAW files, videos, and complex folder structures.
 - **AI & Processing**: TensorFlow-based object categorization, facial recognition, and color extraction. Parses Google Photos JSON sidecar metadata for seamless migration.
@@ -92,7 +92,7 @@ The open-source self-hosted photo ecosystem provides sovereign control, local AI
 ---
 
 ### 3. 🔐 [Ente](https://github.com/ente-io/ente)
-[![GitHub stars](https://img.shields.io/github/stars/ente-io/ente?style=social&color=white)](https://github.com/ente-io/ente/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/ente-io/ente?style=social&color=white)](https://github.com/ente-io/ente/stargazers)
 
 - **Description**: End-to-end encrypted (E2EE) photo backup platform designed as an uncompromised privacy-first cloud or self-hosted service. Encryption keys remain solely on your device; even server operators cannot see your photos or metadata.
 - **Features**: Native apps for iOS, Android, macOS, Windows, Linux, and Web. Multi-profile support, family sharing, and automated background sync.
@@ -102,7 +102,7 @@ The open-source self-hosted photo ecosystem provides sovereign control, local AI
 ---
 
 ### 4. 🧠 [LibrePhotos](https://github.com/LibrePhotos/librephotos)
-[![GitHub stars](https://img.shields.io/github/stars/LibrePhotos/librephotos?style=social&color=white)](https://github.com/LibrePhotos/librephotos/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/LibrePhotos/librephotos?style=social&color=white)](https://github.com/LibrePhotos/librephotos/stargazers)
 
 - **Description**: A self-hosted photo management engine with a strong focus on advanced local AI discovery and computer vision pipelines.
 - **Features**: SigLIP 2 zero-shot tagging (900+ automatic tags), facial recognition, scene detection, perceptual hash duplicate detection, and photo stacks (unifying RAW+JPEG and Live Photos into a single entity).
@@ -112,7 +112,7 @@ The open-source self-hosted photo ecosystem provides sovereign control, local AI
 ---
 
 ### 5. 🖼️ [Photoview](https://github.com/photoview/photoview)
-[![GitHub stars](https://img.shields.io/github/stars/photoview/photoview?style=social&color=white)](https://github.com/photoview/photoview/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/photoview/photoview?style=social&color=white)](https://github.com/photoview/photoview/stargazers)
 
 - **Description**: Simple, user-friendly photo gallery designed specifically for personal servers and home labs. Scans existing file directories without altering file layouts.
 - **Features**: EXIF parsing, RAW format decoding, face detection, video streaming, and responsive web gallery with low CPU/RAM consumption.
@@ -122,7 +122,7 @@ The open-source self-hosted photo ecosystem provides sovereign control, local AI
 ---
 
 ### 6. 🍃 [Lychee](https://github.com/LycheeOrg/Lychee)
-[![GitHub stars](https://img.shields.io/github/stars/LycheeOrg/Lychee?style=social&color=white)](https://github.com/LycheeOrg/Lychee/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/LycheeOrg/Lychee?style=social&color=white)](https://github.com/LycheeOrg/Lychee/stargazers)
 
 - **Description**: Great-looking, easy-to-use web photo-management server you can deploy on any LAMP/LNMP stack or Docker container to manage and share albums.
 - **Features**: Elegant dark/light themes, password-protected albums, public sharing links, multi-user permission controls, full EXIF support, and Dropbox/server import tools.
@@ -132,7 +132,7 @@ The open-source self-hosted photo ecosystem provides sovereign control, local AI
 ---
 
 ### 7. 🔌 [Piwigo](https://github.com/Piwigo/Piwigo)
-[![GitHub stars](https://img.shields.io/github/stars/Piwigo/Piwigo?style=social&color=white)](https://github.com/Piwigo/Piwigo/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/Piwigo/Piwigo?style=social&color=white)](https://github.com/Piwigo/Piwigo/stargazers)
 
 - **Description**: Mature, battle-tested open-source photo gallery software for the web, powering galleries from personal collections to institutional archives for over two decades.
 - **Features**: Rich ecosystem of 200+ community extensions and themes, batch management tools, granular access rights, visitor statistics, and official mobile apps.
@@ -142,7 +142,7 @@ The open-source self-hosted photo ecosystem provides sovereign control, local AI
 ---
 
 ### 8. ⚡ [Nextcloud Memories](https://github.com/pulsejet/memories)
-[![GitHub stars](https://img.shields.io/github/stars/pulsejet/memories?style=social&color=white)](https://github.com/pulsejet/memories/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/pulsejet/memories?style=social&color=white)](https://github.com/pulsejet/memories/stargazers)
 
 - **Description**: Modern, GPU-accelerated high-performance photo management suite running as a first-class app inside your Nextcloud instance.
 - **Features**: Infinite timeline scroll, on-the-fly hardware-accelerated video transcoding, reverse geocoding map exploration, face recognition, and deep integration with existing Nextcloud users and file shares.
@@ -152,7 +152,7 @@ The open-source self-hosted photo ecosystem provides sovereign control, local AI
 ---
 
 ### 9. 📱 [Fossify Gallery](https://github.com/FossifyOrg/Gallery)
-[![GitHub stars](https://img.shields.io/github/stars/FossifyOrg/Gallery?style=social&color=white)](https://github.com/FossifyOrg/Gallery/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/FossifyOrg/Gallery?style=social&color=white)](https://github.com/FossifyOrg/Gallery/stargazers)
 
 - **Description**: Privacy-respecting, open-source Android photo and video gallery (the active community continuation of Simple Gallery Pro).
 - **Features**: Pure offline local gallery with Material You design, biometric/PIN vault protection, file organizer, built-in image editor, zero ads, zero trackers, and zero network permissions.
@@ -162,7 +162,7 @@ The open-source self-hosted photo ecosystem provides sovereign control, local AI
 ---
 
 ### 10. 🥧 [Pigallery2](https://github.com/bpatrik/pigallery2)
-[![GitHub stars](https://img.shields.io/github/stars/bpatrik/pigallery2?style=social&color=white)](https://github.com/bpatrik/pigallery2/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/bpatrik/pigallery2?style=social&color=white)](https://github.com/bpatrik/pigallery2/stargazers)
 
 - **Description**: Ultra-fast, directory-first photo gallery website optimized specifically for low-resource hardware like the Raspberry Pi.
 - **Features**: Direct read-only folder browsing without forcing library reorganizations, on-the-fly thumbnail generation, search by tags and locations, and facial recognition support.
@@ -172,7 +172,7 @@ The open-source self-hosted photo ecosystem provides sovereign control, local AI
 ---
 
 ### 11. 🔬 [Photonix](https://github.com/photonixapp/photonix)
-[![GitHub stars](https://img.shields.io/github/stars/photonixapp/photonix?style=social&color=white)](https://github.com/photonixapp/photonix/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/photonixapp/photonix?style=social&color=white)](https://github.com/photonixapp/photonix/stargazers)
 
 - **Description**: Modern web-based photo management server engineered with automated AI classification pipelines to organize your visual collection effortlessly.
 - **Features**: Object recognition, face detection, location awareness, dominant color analysis, and progressive web application interface.
@@ -182,7 +182,7 @@ The open-source self-hosted photo ecosystem provides sovereign control, local AI
 ---
 
 ### 12. ⏱️ [Chronoframe](https://github.com/HoshinoSuzumi/chronoframe)
-[![GitHub stars](https://img.shields.io/github/stars/HoshinoSuzumi/chronoframe?style=social&color=white)](https://github.com/HoshinoSuzumi/chronoframe/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/HoshinoSuzumi/chronoframe?style=social&color=white)](https://github.com/HoshinoSuzumi/chronoframe/stargazers)
 
 - **Description**: Self-hosted personal gallery web application featuring modern aesthetics, album curation, and comprehensive media support.
 - **Features**: Full support for Apple Live Photos and Motion Photos, interactive geolocation map view, timeline curation, and responsive mobile-first UI.
@@ -192,7 +192,7 @@ The open-source self-hosted photo ecosystem provides sovereign control, local AI
 ---
 
 ### 13. 🗂️ [Damselfly](https://github.com/Webreaper/Damselfly)
-[![GitHub stars](https://img.shields.io/github/stars/Webreaper/Damselfly?style=social&color=white)](https://github.com/Webreaper/Damselfly/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/Webreaper/Damselfly?style=social&color=white)](https://github.com/Webreaper/Damselfly/stargazers)
 
 - **Description**: Server-based photograph management application built to index and catalog massive collections of photos (tested with 500,000+ files) with sub-second search times.
 - **Features**: IPTC and EXIF keyword tagging, Azure/custom face recognition models, folder synchronization, and fast visual search.
@@ -202,7 +202,7 @@ The open-source self-hosted photo ecosystem provides sovereign control, local AI
 ---
 
 ### 14. 🏛️ [Tropy](https://github.com/tropy/tropy)
-[![GitHub stars](https://img.shields.io/github/stars/tropy/tropy?style=social&color=white)](https://github.com/tropy/tropy/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/tropy/tropy?style=social&color=white)](https://github.com/tropy/tropy/stargazers)
 
 - **Description**: Cross-platform desktop research photo manager purpose-built for historians, researchers, and archivists working with large sets of documentary research photos.
 - **Features**: Grouping individual photos into multi-page archival documents, customizable Dublin Core metadata templates, transcription tools, and image annotations.
@@ -212,7 +212,7 @@ The open-source self-hosted photo ecosystem provides sovereign control, local AI
 ---
 
 ### 15. 🌐 [Thumbsup](https://github.com/thumbsup/thumbsup)
-[![GitHub stars](https://img.shields.io/github/stars/thumbsup/thumbsup?style=social&color=white)](https://github.com/thumbsup/thumbsup/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/thumbsup/thumbsup?style=social&color=white)](https://github.com/thumbsup/thumbsup/stargazers)
 
 - **Description**: Static HTML photo and video gallery generator. Converts local folders of pictures and videos into a static site that can be hosted on GitHub Pages, Cloudflare Pages, S3, or Nginx.
 - **Features**: Generates thumbnails, transcodes videos to web-friendly MP4/HLS, multiple theme choices, zero database requirements, and bulletproof security.
@@ -222,7 +222,7 @@ The open-source self-hosted photo ecosystem provides sovereign control, local AI
 ---
 
 ### 16. 💻 [digiKam](https://github.com/KDE/digikam)
-[![GitHub stars](https://img.shields.io/github/stars/KDE/digikam?style=social&color=white)](https://github.com/KDE/digikam/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/KDE/digikam?style=social&color=white)](https://github.com/KDE/digikam/stargazers)
 
 - **Description**: Industrial-grade, professional open-source desktop photo management suite developed under the KDE project for Linux, Windows, and macOS.
 - **Features**: Full RAW file decoding (LibRaw), comprehensive metadata manipulation (EXIF, IPTC, XMP), lens correction, geolocation editor, batch queue processor, and facial recognition.
@@ -233,7 +233,7 @@ The open-source self-hosted photo ecosystem provides sovereign control, local AI
 
 ## 🧩 Quick Feature Comparison Matrix
 
-| Project | Stars | Deployment | AI / Faces | Mobile Auto-Upload | RAW Support | Encryption | Ideal For |
+| Project | GitHub_Stars | Deployment | AI / Faces | Mobile Auto-Upload | RAW Support | Encryption | Ideal For |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Immich** | 116k+ ⭐ | Docker (4 containers) | ✅ (Local CLIP + Face) | ✅ (iOS & Android) | ✅ Yes | In-transit / TLS | Google Photos replacement with phone backup |
 | **PhotoPrism** | 40k+ ⭐ | Docker (2 containers) | ✅ (TensorFlow) | ❌ (PWA / WebDAV) | ✅ (Excellent) | In-transit / TLS | Large existing camera archives & metadata search |
